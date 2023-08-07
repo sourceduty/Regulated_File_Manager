@@ -1,5 +1,5 @@
 # Regulated_File_Manager
-🗃️ Software concept for regulating files inside and outside of File Manager for Windows.
+🗃️ Software concept for regulating files inside and outside of File Explorer for Windows.
 #
 
 - Control the amount of files stored outside of folders.
