@@ -2,6 +2,8 @@
 🗃️ Software concept for regulating files inside and outside of File Explorer for Windows.
 #
 
+## FEATURES
+
 - Control the amount of files stored outside of folders.
 - Create new folders for loose files.
 - Archive and shrink old files and folders.
