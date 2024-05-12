@@ -66,5 +66,11 @@ if __name__ == "__main__":
     main()
 ```
 This code provides a basic structure for a regulated file manager, but you will need to customize it and integrate cloud storage based on your requirements and preferences. Additionally, you should schedule this script to run at regular intervals using tools like cron on Unix-based systems or Task Scheduler on Windows.
+
+#
+### Related Links
+
+[Smart Folder](https://github.com/sourceduty/Smart_Folder)
+
 #
 ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
