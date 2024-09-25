@@ -1,16 +1,17 @@
-# Regulated_File_Manager
-🗃️ Software concept for regulating files inside and outside of File Explorer for Windows.
-#
+![Regulated File Manager](https://github.com/user-attachments/assets/696f906f-1eb5-4034-ac84-17db3a107473)
 
-## FEATURES
+> Software concept for regulating files inside and outside of File Explorer for Windows.
+
+#
 
 - Control the amount of files stored outside of folders.
 - Create new folders for loose files.
 - Archive and shrink old files and folders.
-- Upload cold files and folders to cloud storage.
+- Upload old files and folders to cloud storage.
 - Habitual file and folder management suggestions.
 
-## CHATGPT CONCEPT
+#
+### Concept
 
 ```
 import os
